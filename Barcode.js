@@ -17,5 +17,7 @@ let generateBarcode = () => {
 generateBtn.addEventListener('click', () => {
         if (userInput.value != '') {
                 generateBarcode();
+        }else{
+                alert('enter a link to generate the barcode')
         }
 })

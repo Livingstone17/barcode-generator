@@ -7,7 +7,7 @@ box-sizing:border-box;
 }
 
 body{
-background:#00BFFF;  
+background:#741eb6;  
 font-family: 'poppins', sans-serif;
 }
 
@@ -50,7 +50,7 @@ margin-top:20px;
 all:unset;  
 height:45px;
 width:100%;
-background:#00BFFF;  
+background:#741eb6;  
 color:white;
 display:flex;
 justify-content:center;
